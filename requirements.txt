@@ -1,0 +1,8 @@
+numpy
+ollama
+pyaudio
+pvporcupine
+whisperplus
+TTS
+ffmpeg
+sounddevice
